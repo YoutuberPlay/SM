@@ -1,5 +1,12 @@
 {"listcores":
 [
+
+{"id":"12",
+"name":"PMMP v2.0",
+"version":"Minecraft PE: 1.3.x",
+"php":"73",
+"download":"https://github.com/YoutuberPlay/yadra64bit/releases/download/v1.4.0/PocketMine-MP.phar"},
+ 
 {"id":"11",
 "name":"PMMP v1.0",
 "version":"Minecraft PE: 1.1.x",
