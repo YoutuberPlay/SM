@@ -1,0 +1,57 @@
+{"listcores":
+[
+{"id":"9",
+"name":"Sunrise v1.1dev-390 (API 1.13.0)",
+"version":"Minecraft PE 0.14.x",
+"php":"PHP 5.6",
+"download":"https://github.com/YoutuberPlay/yadra64bit/releases/download/v1.4.0/PocketMine-MP.phar"},
+
+{"id":"8",
+"name":"Genisys v1.0dev (API 2.0.0)",
+"version":"Minecraft PE 0.13.1",
+"php":"PHP 5.6",
+"download":"https://github.com/YoutuberPlay/yadra64bit/releases/download/v1.4.0/PocketMine-MP.phar"},
+
+{"id":"7",
+"name":"PMMP v1.6dev-48 (API 1.13.0)",
+"version":"Minecraft PE 0.12.1",
+"php":"PHP 5.6",
+"download":"https://github.com/YoutuberPlay/yadra64bit/releases/download/v1.4.0/PocketMine-MP.phar"},
+
+{"id":"6",
+"name":"PMMP v1.5dev-1261 (API 1.12.0)",
+"version":"Minecraft PE 0.11.0",
+"php":"PHP 5.6",
+"download":"https://github.com/YoutuberPlay/nova_ver/releases/download/v0.0.3/image10.png"},
+
+{"id":"5",
+"name":"PMMP v1.5dev-1244 (API 1.12.0)",
+"version":"Minecraft PE 0.11.0",
+"php":"PHP 5.6",
+"download":"https://github.com/YoutuberPlay/nova_ver/releases/download/v0.0.3/image10.png"},
+
+{"id":"4",
+"name":"PMMP v1.4.1-980 (API 1.11.0)",
+"version":"Minecraft PE 0.10.5",
+"php":"PHP 5.6",
+"download":"https://github.com/YoutuberPlay/nova_ver/releases/download/v0.0.3/image10.png"},
+
+{"id":"3",
+"name":"PMMP v1.4.1dev-936 (API 1.11.0)",
+"version":"Minecraft PE 0.10.4",
+"php":"PHP 5.6",
+"download":"https://github.com/YoutuberPlay/nova_ver/releases/download/v0.0.3/image10.png"},
+
+{"id":"2",
+"name":"PMMP v1.4dev-822 (API 1.7.0)",
+"version":"Minecraft PE 0.9.5",
+"php":"PHP 5.6",
+"download":"https://github.com/YoutuberPlay/nova_ver/releases/download/v0.0.3/image10.png"},
+
+{"id":"1",
+"name":"PMMP v1.4dev-707 (API 1.6.0)",
+"version":"Minecraft PE 0.9.5",
+"php":"PHP 5.6",
+"download":"https://github.com/YoutuberPlay/nova_ver/releases/download/v0.0.3/image10.png"}
+]
+}
