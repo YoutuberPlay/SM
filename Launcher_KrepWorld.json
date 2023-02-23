@@ -1,0 +1,16 @@
+{"servers":
+[
+{"id":"1",
+"name":"KrepWorld",
+"info":"Скоро открытие!",
+"ip":"mcpe.KrepWorld.tk:19132",
+"add_ip":"1:§aKrep§dWorld:mcpe.KrepWorld.tk:19132\n2:§lCraft§cDay:mcpe.CraftDay.tk:19132",
+"image":"https://github.com/YoutuberPlay/KrepWorld/releases/download/Servers/KW_logo.png"},
+{"id":"2",
+"name":"CraftDay",
+"info":"Скоро открытие!",
+"ip":"mcpe.CraftDay.tk:19132",
+"add_ip":"1:§l§aKrep§dWorld:mcpe.KrepWorld.tk:19132\n2:§lCraft§cDay:mcpe.CraftDay.tk:19132",
+"image":"https://github.com/YoutuberPlay/KrepWorld/releases/download/Servers/CD_logo.png"}
+]
+}
